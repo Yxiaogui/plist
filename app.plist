@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/Yxiaogui/plist/blob/master/%E8%83%A1%E8%90%9D%E6%92%ADiPhoneApp_60pt%403x.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/Yxiaogui/plist/blob/master/%E8%83%A1%E8%90%9D%E6%92%ADiPhoneSpootlight5_29pt%402x.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
