@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://ovukpnamr.bkt.clouddn.com/coin_msg_ios.ipa</string>
+                    <string>http://ovukpnamr.bkt.clouddn.com/ios_vpn.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>com.hy.majia-babitebi</string>
+    <string>com.sz.MiaowShow</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
